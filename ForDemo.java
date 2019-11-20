@@ -1,4 +1,4 @@
-package java_20191120;
+﻿package java_20191120;
 
 public class ForDemo {
 	public static void main(String[] args) {
@@ -41,6 +41,7 @@ public class ForDemo {
 			}
 			System.out.println("");
 		} //수정 잘되니?
+		 //나도 밥먹었어
 
 	}
 

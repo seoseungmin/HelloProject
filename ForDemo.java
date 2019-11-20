@@ -40,8 +40,9 @@ public class ForDemo {
 				System.out.printf("*");
 			}
 			System.out.println("");
-		}
+		} //수정 잘되니?
 
 	}
 
 }
+
